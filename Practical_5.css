@@ -1,0 +1,31 @@
+/* Apply simple CSS to Practical_5.html */
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: comic sans ms;
+    font-size: 24px;
+    color: blueviolet
+}
+
+li {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
